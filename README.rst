@@ -12,4 +12,4 @@ The entry point would be smart_technologies_interview_presentation/presentation.
 
 The finished presentation would be [some powerpoint file located in this repository].
 
-Source for the data: https://www.kaggle.com/datasets/ruchi798/data`-science-job-salaries`
+Source for the data: https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries
